@@ -1,1 +1,26 @@
-
+Repository
+  - A Git repository is the .git/ folder inside a project. It tracks all changes made to files in your project.
+  EX: You can create a repository through github.
+Clone
+  - Clones the branch you are currently in and creates it to new branch. 
+  EX: git clone
+Fork
+  - Fork allows others to download and access the latest version of your repository.
+  EX: You can fork through github.
+Branch
+  - A branch in Git is simply a lightweight movable pointer to one of these commits.
+  EX: You can create a branch through github.
+Commit
+  - A commit is a change to one or more files in your branch.
+  EX: git commit
+Merge
+  - Merges commits together to one commit.
+  EX: git merge C1 C2
+Checkout
+  - Checkouts the HEAD from the commit you are currently in.
+  EX: git checkout master
+Push
+Pull 
+Remote Add / Remove / Show
+Status
+Master Branch
